@@ -1,5 +1,5 @@
 print('Welcome to weather advice programme:)')
-weather = input('What is the weather like today? [sunny, rainy, cloudy] ')
+weather = input(" What's the weather like today? (sunny/rainy/cold):.")
 weather=weather.lower()
 
 if weather == 'sunny':
